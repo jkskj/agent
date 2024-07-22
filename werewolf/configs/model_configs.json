@@ -1,0 +1,11 @@
+[
+    {
+        "model_type": "zhipuai_chat",
+        "config_name": "glm-4",
+        "model_name": "glm-4-0520",
+        "api_key": "*****",
+        "generate_args": {
+            "temperature": 0.5
+        }
+    }
+]
